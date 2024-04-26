@@ -1,3 +1,4 @@
-# Andor
-Proxy tool akin to burp suite community and owasp zap.
-Backend written in go and frontend written in javascript (framework not decided yet).
+# Rael
+Proxy tool akin to burp suite community and owasp zap, but lightweight.
+
+Backend in go and frontend problably in elm.
